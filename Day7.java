@@ -1,4 +1,4 @@
-// Question : Best Time to Buy and sell stock II
+// Question : Best Time to Buy and sell stock II (multiple transactions allowed)
 
 
 class Solution {
