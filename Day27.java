@@ -2,7 +2,7 @@
 
 
 
-class Solution {
+class Day27 {
     // Function to merge the arrays.
     public void mergeArrays(int a[], int b[]) {
         int n = a.length;
