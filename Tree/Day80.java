@@ -24,4 +24,4 @@ class Solution {
 }
 
 // Time Complexity: O(N) where N is the number of nodes in the binary tree.
-// Space Complexity: O(N) for the queue and the list to store the result, where
+// Space Complexity: O(N) for the queue and the list to store the result
